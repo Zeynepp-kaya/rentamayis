@@ -6,3 +6,4 @@ suan zeynep branchhindeyim
 //gidecekmi bakalim
 
 //githup pa gitttttttttttttttttttt
+lokalde confilit olursa
